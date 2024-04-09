@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.bd-container{
+  max-width: 1200px;
+}
+.bg-blue{
+  
+}
+.bg-purpe{
+  background-color: purple;
+}
