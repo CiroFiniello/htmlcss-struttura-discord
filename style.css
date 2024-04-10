@@ -48,7 +48,7 @@ header nav ul li{
 .bg-blue{
   background-color: blue;
 }
-.bg-purpe{
+.bg-purple{
   background-color: purple;
 }
 .bg-white{
@@ -61,13 +61,18 @@ footer{
   background-color:#23272a ;
   color: white;
 }
+
 .footer-list{
   display: flex;
+  justify-content: space-between;
 }
-footer ul{
-padding: 2rem;
-display: flex;
+.icon{
+display: inline-block;
 }
-footer ul li{
-
+.underfooter{
+  justify-content: space-between;
+  padding: 1rem;
+}
+.underfooter button{
+  padding: .6rem;
 }
